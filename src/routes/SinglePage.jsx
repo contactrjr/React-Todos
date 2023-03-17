@@ -5,12 +5,12 @@ const aboutData = [
         {
             slug:"about-app",
             title: "About the App",
-            description: "The description of the app",
+            description: "You can add your to-do list here",
         },
         {
             slug:"about-dev",
             title: "About the developer",
-            description:"More about me .....goes here",
+            description:"Developer name Raja...",
         },
     
 ]
